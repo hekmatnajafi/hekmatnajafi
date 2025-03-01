@@ -2,7 +2,7 @@
 
 </div>
 <div align="center">
-<h2>👋 Hi, I'm Hekmat!</h2>
+<h2>👋 Hey, I'm Hekmat!</h2>
 <br>
 <br>
   
